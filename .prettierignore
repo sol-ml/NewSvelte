@@ -1,0 +1,8 @@
+.husky/**
+.svelte-kit/**
+static/**
+build/**
+node_modules/**
+.editorconfig
+.gitignore
+.prettierignore
